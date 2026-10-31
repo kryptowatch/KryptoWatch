@@ -65,3 +65,8 @@ Help improve a project by correcting outdated details, adding official reference
 - [Services](https://krypto.watch/services) · [Crypto Security Toolkit](https://github.com/KryptoWatch/crypto-security-toolkit)
 - [Developers](https://krypto.watch/developers) · [Crypto API Directory](https://github.com/KryptoWatch/crypto-api-directory)
 - [Visit Krypto.Watch](https://krypto.watch/)
+
+
+## Social
+
+- [Krypto.Watch on X](https://x.com/KryptodotWatch)
