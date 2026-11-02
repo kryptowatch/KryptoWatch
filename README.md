@@ -30,6 +30,11 @@ Krypto.Watch builds practical open-source resources to help people research cryp
 | [🧩 Crypto API Directory](https://github.com/KryptoWatch/crypto-api-directory) | Official documentation for market-data, exchange, and blockchain APIs. |
 
 
+## Krypto.Watch Research
+
+[Krypto.Watch Research](https://crypto-research-c12c6c.gitlab.io/) is our independent research publication for cryptocurrency exchanges, swaps, blockchain infrastructure, security, AML/compliance, and Web3. GitHub hosts Krypto.Watch's open-source technical resources, while GitLab Pages hosts research and educational articles.
+
+
 ## How we work
 
 
